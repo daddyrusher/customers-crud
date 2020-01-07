@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: customers
+      port: 27017
