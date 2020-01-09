@@ -1,1 +1,1 @@
-rootProject.name = "people-crud"
+rootProject.name = "customers-crud"
